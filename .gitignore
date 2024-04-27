@@ -1,0 +1,8 @@
+node_modules
+tmp
+
+src/tmp/*
+
+bun.lockb
+package-lock.json
+*.traineddata
