@@ -6,3 +6,4 @@ src/tmp/*
 bun.lockb
 package-lock.json
 *.traineddata
+.env
